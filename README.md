@@ -1,3 +1,3 @@
-# `0x00. Shell, basics`
+## `0x00. Shell, basics`
 
 > this project is all about shell scripting.
